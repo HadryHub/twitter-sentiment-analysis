@@ -1,4 +1,4 @@
-# twitter-sentiment-analysis
+# Sentiment analysis using fastText embeddings with Keras
 
 
 Aggregated CNN with FastText Embeddings
